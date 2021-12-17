@@ -12,8 +12,9 @@ Input for this script are the individual debarcoded mass cytometry .fcs files. I
 - **CyTOF_umap_FlowSOM_clustering**: 
 The output of the previous script is used to perform dimensionality reduction using UMAP and FlowSOM clustering in order to assign each cell to a canonical immune subset thereby creating the cellular reference framework. After dissection of leukocytes into broad populations (such as CD4+ T cells, CD8+ T cells, myeloid cells, etc.) each of these subsets were further dissected in an iterative manner using the same computational pipeline.
 
-- **Variance component analysis**: 
+- **Variance_component_analysis**: 
 This script was used to estimate the contribution of genetics, early and late environment of the cell populations present in the reference framework by applying a structured equation model. The input was a table of immune cell population frequencies of the healthy monozygotic and dizygotic twin pairs determined by manual gating.
 
-
+- **Diffcyt**: 
+This script was used to retrieve data-driven immunophenotypes that distinguish MS twins from non-MS twins across all twin pairs and across only untreated twin pairs in order to retrieve immunne perturbations elicited by MS that are not elicited by therapy.
 
