@@ -1,10 +1,10 @@
 # MStwins
-This repository contains code that was used in the analysis of the manuscript Ingelfinger, Gerdes et al. "XXX". The purpose of this repository is to provide additional details beyond the method section of the manuscript for the interested reader. 
+This repository contains code that was used in the analysis of the manuscript Ingelfinger, Gerdes et al. "Twin study reveals non-heritable immune perturbations in multiple sclerosis". The purpose of this repository is to provide additional details beyond the method section of the manuscript for the interested reader. 
 
 Additional code used for the CITE-seq analysis can be accessed here:
-XXX
+https://github.com/beltranLab/twin_study_Nature_2021/blob/main/CITE-Seq_analysis.ipynb
 
-The code is split into the following sections:
+The code in this repository is split into the following sections:
 
 - **CyTOF_preprocessing**: 
 Input for this script are the individual debarcoded mass cytometry .fcs files. In this script individual files are concatenated, transformed using a hyperbolic arcsin function and percentile normalized.
