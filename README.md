@@ -18,3 +18,5 @@ This script was used to estimate the contribution of genetics, early and late en
 - **Diffcyt**: 
 This script was used to retrieve data-driven immunophenotypes that distinguish MS twins from non-MS twins across all twin pairs and across only untreated twin pairs in order to retrieve immunne perturbations elicited by MS that are not elicited by therapy.
 
+- **InfinityFlow**: 
+This script was used to preprocess, cluster and map InfinityFlow data onto the mass cytometry data. Mapping of CITE-seq data was achieved in a similar manner.
