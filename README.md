@@ -1,5 +1,5 @@
 # MStwins
-This repository contains code that was used in the analysis of the manuscript Ingelfinger, Gerdes et al. "Twin study reveals non-heritable immune perturbations in multiple sclerosis". The purpose of this repository is to provide additional details beyond the method section of the manuscript for the interested reader. 
+This repository contains code that was used in the analysis of the publication Ingelfinger, Gerdes et al. "Twin study reveals non-heritable immune perturbations in multiple sclerosis" (Nature, 2022). The purpose of this repository is to provide additional details beyond the method section of the manuscript for the interested reader. 
 
 Additional code used for the CITE-seq analysis can be accessed here:
 https://github.com/beltranLab/twin_study_Nature_2021/blob/main/CITE-Seq_analysis.ipynb
